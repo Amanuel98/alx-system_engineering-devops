@@ -1,1 +1,1 @@
- read me file of task 6
+seventh task readme file
